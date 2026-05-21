@@ -1,50 +1,68 @@
 # 🏨 Hostel Management System
 
-A full-stack Hostel Management System developed using PHP and MySQL. This project allows administrators to manage students, rooms, and bookings efficiently.
+A full-stack Hostel Management System developed using PHP and MySQL. This web application helps administrators manage hostel students, room allocation, bookings, and student records efficiently through a centralized dashboard.
 
 ---
 
 ## 🚀 Features
 
-- 🔐 Admin Login System
-- 🧑‍🎓 Student Registration (via Admin)
-- 📋 Manage Student Records
-- 🏠 Room Allocation System
-- 📊 Dashboard with statistics
-- 🔎 Search and filter students
+* 🔐 Secure Admin Authentication System
+* 🧑‍🎓 Student Registration & Management
+* 🏠 Hostel Room Allocation
+* 📋 Manage Student Records
+* 📊 Admin Dashboard with Statistics
+* 🔎 Search & Filter Functionality
+* 📚 Course Management
+* 🛏️ Room Booking System
+* 🌐 Live Deployment on InfinityFree Hosting
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP
-- Database: MySQL
-- Server: XAMPP
+* Frontend: HTML, CSS, JavaScript, Bootstrap
+* Backend: PHP
+* Database: MySQL
+* Hosting: InfinityFree
+* Database Management: phpMyAdmin
 
 ---
 
-## ⚙️ How to Run
+## ⚙️ How to Run Locally
 
 1. Install XAMPP
-2. Move project to `htdocs`
+2. Move project folder to `htdocs`
 3. Start Apache & MySQL
-4. Open phpMyAdmin → Create DB: `hostelmsp`
-5. Import SQL file from `/database`
-6. Run:http://localhost/HostelManagement
+4. Open phpMyAdmin
+5. Create a database named `hostelmsp`
+6. Import the SQL file from the `/database` folder
+7. Run the project:
+
+```bash
+http://localhost/HostelManagement
+```
+
+---
+
+## 🌐 Live Demo
+
+http://akhostel.free.nf/HostelManagement/
 
 ---
 
 ## 🔑 Admin Login
 
-- Username: admin  
-- Password: Password@123  
+* Username: admin
+* Password: ********
 
 ---
 
-## 📌 Note
+## 📌 Project Highlights
 
-Students are registered by admin. Only registered students can log in.
+* Implemented database connectivity using MySQLi
+* Configured live hosting and deployment
+* Managed authentication and admin access control
+* Integrated responsive dashboard UI
 
 ---
 
