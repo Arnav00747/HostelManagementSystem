@@ -69,3 +69,6 @@ http://akhostel.free.nf/HostelManagement/
 ## 👨‍💻 Author
 
 Arnav Kumar
+## 🔑 Admin Login
+
+Demo credentials available on request.
