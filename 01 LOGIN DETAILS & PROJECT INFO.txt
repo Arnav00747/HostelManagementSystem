@@ -4,4 +4,8 @@
 **Admin Login Details**
 
 Username: admin
+<<<<<<< HEAD
 Password: ***********
+=======
+Password: *************
+>>>>>>> 7366bed (Updated project files and fixed student login)
